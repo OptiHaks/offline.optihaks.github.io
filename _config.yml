@@ -58,7 +58,8 @@ plugins:
 author:
   name   : "OptiHaks"
   avatar : "/assets/images/BioPic.webp"
-  bio    : "A Trainee Bug Hunter, Newbie GitHuber, Tweeter And Blogger"
+  bio    : "A Trainee Bug Hunter, Newbie GitHubber, Tweeter And Blogger"
+  location : "UK"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
